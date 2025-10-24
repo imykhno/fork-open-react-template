@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fork-open-react-template
+  annotations:
+    github.com/project-slug: imykhno/fork-open-react-template
+spec:
+  type: other
+  owner: imykhno
+  lifecycle: unknown
