@@ -8,3 +8,5 @@ spec:
   type: other
   owner: imykhno
   lifecycle: unknown
+    profile:
+      email: imykhno@redhat.com
